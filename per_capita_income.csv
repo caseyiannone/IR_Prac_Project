@@ -1,0 +1,187 @@
+GeoFips,GeoName,LineCode,Description,2015Q1,2015Q2,2015Q3,2015Q4
+0,United States,1,Personal income,15064430057,15264645239,15422445980,15544913624
+0,United States,2,"Population (midperiod, persons)",320531711,321100105,321779639,322457185
+0,United States,3,Per capita personal income (dollars),46998,47539,47929,48208
+1000,Alabama,1,Personal income,187235330,188372335,190271274,191548568
+1000,Alabama,2,"Population (midperiod, persons)",4855113,4857334,4861207,4865033
+1000,Alabama,3,Per capita personal income (dollars),38565,38781,39141,39373
+2000,Alaska,1,Personal income,41246063,41429288,41231694,41342581
+2000,Alaska,2,"Population (midperiod, persons)",738017,738252,738680,739105
+2000,Alaska,3,Per capita personal income (dollars),55888,56118,55818,55936
+4000,Arizona,1,Personal income,262240548,265918534,268165499,270699400
+4000,Arizona,2,"Population (midperiod, persons)",6792241,6815643,6841754,6867949
+4000,Arizona,3,Per capita personal income (dollars),38609,39016,39195,39415
+5000,Arkansas,1,Personal income,114384646,116025628,117468000,118062935
+5000,Arkansas,2,"Population (midperiod, persons)",2974447,2976714,2980020,2983291
+5000,Arkansas,3,Per capita personal income (dollars),38456,38978,39419,39575
+6000,California,1,Personal income,2011252161,2056578090,2078199347,2099318967
+6000,California,2,"Population (midperiod, persons)",39020262,39101001,39194625,39288180
+6000,California,3,Per capita personal income (dollars),51544,52597,53023,53434
+8000,Colorado,1,Personal income,270599609,274301505,276378394,279149667
+8000,Colorado,2,"Population (midperiod, persons)",5419447,5443802,5470095,5496385
+8000,Colorado,3,Per capita personal income (dollars),49931,50388,50525,50788
+9000,Connecticut,1,Personal income,237056418,240593290,241310999,243116723
+9000,Connecticut,2,"Population (midperiod, persons)",3592895,3591282,3590856,3590349
+9000,Connecticut,3,Per capita personal income (dollars),65979,66994,67202,67714
+10000,Delaware,1,Personal income,44435174,45091335,45256337,45589843
+10000,Delaware,2,"Population (midperiod, persons)",942395,944695,947333,950007
+10000,Delaware,3,Per capita personal income (dollars),47151,47731,47772,47989
+11000,District of Columbia,1,Personal income,47263601,47854834,48334723,48827931
+11000,District of Columbia,2,"Population (midperiod, persons)",667700,670673,673896,677144
+11000,District of Columbia,3,Per capita personal income (dollars),70786,71353,71724,72109
+12000,Florida,1,Personal income,877712039,889715064,901177487,908153626
+12000,Florida,2,"Population (midperiod, persons)",20138919,20225555,20321442,20418177
+12000,Florida,3,Per capita personal income (dollars),43583,43990,44346,44478
+13000,Georgia,1,Personal income,407109310,411530088,417304915,421152320
+13000,Georgia,2,"Population (midperiod, persons)",10172223,10199914,10230942,10261925
+13000,Georgia,3,Per capita personal income (dollars),40022,40346,40789,41040
+15000,Hawaii,1,Personal income,67186223,68057030,68768229,69482093
+15000,Hawaii,2,"Population (midperiod, persons)",1427614,1430181,1433202,1436228
+15000,Hawaii,3,Per capita personal income (dollars),47062,47586,47982,48378
+16000,Idaho,1,Personal income,61233575,61864978,62490242,62742616
+16000,Idaho,2,"Population (midperiod, persons)",1647640,1652377,1657672,1662977
+16000,Idaho,3,Per capita personal income (dollars),37164,37440,37698,37729
+17000,Illinois,1,Personal income,626773256,631692310,640225452,646431590
+17000,Illinois,2,"Population (midperiod, persons)",12870403,12862553,12858906,12854934
+17000,Illinois,3,Per capita personal income (dollars),48699,49111,49788,50287
+18000,Indiana,1,Personal income,266905797,271100753,272349383,275347661
+18000,Indiana,2,"Population (midperiod, persons)",6612412,6616771,6623153,6629390
+18000,Indiana,3,Per capita personal income (dollars),40364,40972,41121,41534
+19000,Iowa,1,Personal income,138966741,140185394,141282507,141568615
+19000,Iowa,2,"Population (midperiod, persons)",3118938,3122001,3126089,3130120
+19000,Iowa,3,Per capita personal income (dollars),44556,44902,45195,45228
+20000,Kansas,1,Personal income,132198110,133768697,133971380,134424404
+20000,Kansas,2,"Population (midperiod, persons)",2908660,2910430,2913156,2915805
+20000,Kansas,3,Per capita personal income (dollars),45450,45962,45988,46102
+21000,Kentucky,1,Personal income,169539759,171878965,173356611,175426279
+21000,Kentucky,2,"Population (midperiod, persons)",4421022,4423418,4427132,4430794
+21000,Kentucky,3,Per capita personal income (dollars),38349,38857,39158,39593
+22000,Louisiana,1,Personal income,199786905,200793474,202992884,204619685
+22000,Louisiana,2,"Population (midperiod, persons)",4663351,4667926,4674056,4680163
+22000,Louisiana,3,Per capita personal income (dollars),42842,43016,43430,43721
+23000,Maine,1,Personal income,54787374,55809087,56418930,56747291
+23000,Maine,2,"Population (midperiod, persons)",1329881,1329399,1329373,1329313
+23000,Maine,3,Per capita personal income (dollars),41197,41981,42440,42689
+24000,Maryland,1,Personal income,331870227,336184461,338727669,341913951
+24000,Maryland,2,"Population (midperiod, persons)",5995848,6002430,6011126,6019750
+24000,Maryland,3,Per capita personal income (dollars),55350,56008,56350,56799
+25000,Massachusetts,1,Personal income,407977259,413850901,416666120,420400344
+25000,Massachusetts,2,"Population (midperiod, persons)",6780522,6789260,6800149,6810778
+25000,Massachusetts,3,Per capita personal income (dollars),60169,60957,61273,61726
+26000,Michigan,1,Personal income,413450793,418474127,423474033,428775174
+26000,Michigan,2,"Population (midperiod, persons)",9921830,9921564,9924639,9927548
+26000,Michigan,3,Per capita personal income (dollars),41671,42178,42669,43190
+27000,Minnesota,1,Personal income,275421947,275874495,278193310,280440405
+27000,Minnesota,2,"Population (midperiod, persons)",5478104,5485324,5494327,5503109
+27000,Minnesota,3,Per capita personal income (dollars),50277,50293,50633,50960
+28000,Mississippi,1,Personal income,104598593,105767863,106674251,107258640
+28000,Mississippi,2,"Population (midperiod, persons)",2993304,2992436,2992588,2992740
+28000,Mississippi,3,Per capita personal income (dollars),34944,35345,35646,35840
+29000,Missouri,1,Personal income,256038520,259313003,261387530,263751344
+29000,Missouri,2,"Population (midperiod, persons)",6077171,6081032,6086916,6092700
+29000,Missouri,3,Per capita personal income (dollars),42131,42643,42943,43290
+30000,Montana,1,Personal income,42039357,42462983,42964934,43119126
+30000,Montana,2,"Population (midperiod, persons)",1029485,1031714,1034315,1036933
+30000,Montana,3,Per capita personal income (dollars),40835,41158,41540,41583
+31000,Nebraska,1,Personal income,89796925,91115399,91660076,91586631
+31000,Nebraska,2,"Population (midperiod, persons)",1891498,1894487,1898077,1901630
+31000,Nebraska,3,Per capita personal income (dollars),47474,48095,48291,48162
+32000,Nevada,1,Personal income,119274795,121612584,122898872,124106912
+32000,Nevada,2,"Population (midperiod, persons)",2871673,2884269,2897955,2911693
+32000,Nevada,3,Per capita personal income (dollars),41535,42164,42409,42624
+33000,New Hampshire,1,Personal income,71288080,72689305,73607210,74205545
+33000,New Hampshire,2,"Population (midperiod, persons)",1329793,1330248,1331074,1331876
+33000,New Hampshire,3,Per capita personal income (dollars),53608,54643,55299,55715
+34000,New Jersey,1,Personal income,526307925,533914176,538871356,543322879
+34000,New Jersey,2,"Population (midperiod, persons)",8952421,8955508,8961675,8967625
+34000,New Jersey,3,Per capita personal income (dollars),58789,59619,60131,60587
+35000,New Mexico,1,Personal income,79209687,80049447,80462582,81080636
+35000,New Mexico,2,"Population (midperiod, persons)",2085763,2085187,2085406,2085592
+35000,New Mexico,3,Per capita personal income (dollars),37976,38390,38584,38877
+36000,New York,1,Personal income,1116653231,1139830112,1153804945,1159652161
+36000,New York,2,"Population (midperiod, persons)",19781909,19789820,19804409,19818813
+36000,New York,3,Per capita personal income (dollars),56448,57597,58260,58513
+37000,North Carolina,1,Personal income,400961765,406548138,411494207,414452772
+37000,North Carolina,2,"Population (midperiod, persons)",10006004,10029766,10057053,10084210
+37000,North Carolina,3,Per capita personal income (dollars),40072,40534,40916,41099
+38000,North Dakota,1,Personal income,41567357,41017528,40966497,41112096
+38000,North Dakota,2,"Population (midperiod, persons)",750697,754791,759164,763583
+38000,North Dakota,3,Per capita personal income (dollars),55372,54343,53963,53841
+39000,Ohio,1,Personal income,496746625,502937992,507935328,512351899
+39000,Ohio,2,"Population (midperiod, persons)",11609110,11611120,11616978,11622626
+39000,Ohio,3,Per capita personal income (dollars),42789,43315,43724,44082
+40000,Oklahoma,1,Personal income,173233916,172555664,173554791,173402475
+40000,Oklahoma,2,"Population (midperiod, persons)",3900089,3907308,3915893,3924393
+40000,Oklahoma,3,Per capita personal income (dollars),44418,44162,44321,44186
+41000,Oregon,1,Personal income,169602485,171886682,175298248,175893550
+41000,Oregon,2,"Population (midperiod, persons)",4007934,4021660,4036871,4052060
+41000,Oregon,3,Per capita personal income (dollars),42317,42740,43424,43408
+42000,Pennsylvania,1,Personal income,622080205,626345894,632927139,637485357
+42000,Pennsylvania,2,"Population (midperiod, persons)",12801337,12801097,12805395,12809331
+42000,Pennsylvania,3,Per capita personal income (dollars),48595,48929,49427,49767
+44000,Rhode Island,1,Personal income,52036390,52869995,53171747,53543726
+44000,Rhode Island,2,"Population (midperiod, persons)",1055917,1056092,1056603,1057066
+44000,Rhode Island,3,Per capita personal income (dollars),49281,50062,50323,50653
+45000,South Carolina,1,Personal income,182434999,185286680,187885119,189536185
+45000,South Carolina,2,"Population (midperiod, persons)",4871941,4887706,4905304,4923011
+45000,South Carolina,3,Per capita personal income (dollars),37446,37909,38302,38500
+46000,South Dakota,1,Personal income,38037270,38582153,38844726,39085354
+46000,South Dakota,2,"Population (midperiod, persons)",856654,857789,859221,860645
+46000,South Dakota,3,Per capita personal income (dollars),44402,44979,45209,45414
+47000,Tennessee,1,Personal income,271371495,276381171,280163451,282909912
+47000,Tennessee,2,"Population (midperiod, persons)",6581642,6593590,6607724,6621835
+47000,Tennessee,3,Per capita personal income (dollars),41232,41917,42399,42724
+48000,Texas,1,Personal income,1273515231,1276062217,1289243054,1298228673
+48000,Texas,2,"Population (midperiod, persons)",27289913,27407579,27534962,27662720
+48000,Texas,3,Per capita personal income (dollars),46666,46559,46822,46931
+49000,Utah,1,Personal income,114576772,116439908,118017371,118935099
+49000,Utah,2,"Population (midperiod, persons)",2976994,2989407,3002740,3016113
+49000,Utah,3,Per capita personal income (dollars),38487,38951,39303,39433
+50000,Vermont,1,Personal income,29487324,29791014,30198657,30394461
+50000,Vermont,2,"Population (midperiod, persons)",626402,626122,626009,625896
+50000,Vermont,3,Per capita personal income (dollars),47074,47580,48240,48562
+51000,Virginia,1,Personal income,428602293,435270854,440204756,444367751
+51000,Virginia,2,"Population (midperiod, persons)",8363674,8375928,8390920,8405736
+51000,Virginia,3,Per capita personal income (dollars),51246,51967,52462,52865
+53000,Washington,1,Personal income,359140938,366310940,369832910,371874722
+53000,Washington,2,"Population (midperiod, persons)",7131217,7156769,7184866,7212926
+53000,Washington,3,Per capita personal income (dollars),50362,51184,51474,51557
+54000,West Virginia,1,Personal income,67682852,68297327,68569980,68764391
+54000,West Virginia,2,"Population (midperiod, persons)",1846161,1844667,1843793,1842878
+54000,West Virginia,3,Per capita personal income (dollars),36661,37024,37190,37314
+55000,Wisconsin,1,Personal income,259109404,262017886,265311107,266765891
+55000,Wisconsin,2,"Population (midperiod, persons)",5767611,5769637,5773504,5777182
+55000,Wisconsin,3,Per capita personal income (dollars),44925,45413,45953,46176
+56000,Wyoming,1,Personal income,32402758,32343661,32479717,32442767
+56000,Wyoming,2,"Population (midperiod, persons)",585513,585877,586394,586918
+56000,Wyoming,3,Per capita personal income (dollars),55341,55206,55389,55276
+91000,New England,1,Personal income,852632845,865603592,871373663,878408090
+91000,New England,2,"Population (midperiod, persons)",14715410,14722403,14734064,14745278
+91000,New England,3,Per capita personal income (dollars),57941,58795,59140,59572
+92000,Mideast,1,Personal income,2688610363,2729220812,2757922169,2776792122
+92000,Mideast,2,"Population (midperiod, persons)",49141610,49164223,49203834,49242670
+92000,Mideast,3,Per capita personal income (dollars),54711,55512,56051,56390
+93000,Great Lakes,1,Personal income,2062985875,2086223068,2109295303,2129672215
+93000,Great Lakes,2,"Population (midperiod, persons)",46781366,46781645,46797180,46811680
+93000,Great Lakes,3,Per capita personal income (dollars),44098,44595,45073,45494
+94000,Plains,1,Personal income,972026870,979856669,986306026,991968849
+94000,Plains,2,"Population (midperiod, persons)",21081722,21105854,21136950,21167592
+94000,Plains,3,Per capita personal income (dollars),46108,46426,46663,46863
+95000,Southeast,1,Personal income,3411419986,3455867587,3497562935,3526253064
+95000,Southeast,2,"Population (midperiod, persons)",81887801,82074954,82292181,82509793
+95000,Southeast,3,Per capita personal income (dollars),41660,42106,42502,42737
+96000,Southwest,1,Personal income,1788199382,1794585862,1811425926,1823411184
+96000,Southwest,2,"Population (midperiod, persons)",40068006,40215717,40378015,40540654
+96000,Southwest,3,Per capita personal income (dollars),44629,44624,44862,44977
+97000,Rocky Mountain,1,Personal income,520852071,527413035,532330658,536389275
+97000,Rocky Mountain,2,"Population (midperiod, persons)",11659079,11703177,11751216,11799326
+97000,Rocky Mountain,3,Per capita personal income (dollars),44674,45066,45300,45459
+98000,Far West,1,Personal income,2767702665,2825874614,2856229300,2882018825
+98000,Far West,2,"Population (midperiod, persons)",55196717,55332132,55486199,55640192
+98000,Far West,3,Per capita personal income (dollars),50143,51071,51476,51797
+Legend / Footnotes:,,,,,,,
+1/ Midquarter population estimates by state are derived by BEA based on unpublished Census Bureau estimates of beginning-of-month population. Quarterly estimates for 2010-2014 reflect unpublished monthly population estimates available as of February 2015. Quarterly estimates for 2015 reflect unpublished monthly population estimates available as of February 2016.,,,,,,,
+2/ Per capita personal income is total personal income divided by total quarterly population estimates.,,,,,,,
+Geographic Note-- Estimates prior to 1950 are not available for Alaska and Hawaii.,,,,,,,
+"Note-- Thousands of dollars, seasonally adjusted at annual rates. All dollar estimates are in current dollars (not adjusted for inflation).",,,,,,,
+"Last updated: March 24, 2016-- new estimates for 2015:IV; revised estimates for 2015:I-2015:III.",,,,,,,
